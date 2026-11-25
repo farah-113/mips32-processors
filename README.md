@@ -54,4 +54,4 @@ Each directory contains the corresponding VHDL modules and synthesized schematic
 ## Documentation
 
 - [Single-Cycle Schematic](single-cycle/schematic.pdf)
-- [Pipelined Schematic](pipelined/schematic.pdf)
+- [Pipelined Schematic](pipelined/MipsPipelineSchematic.pdf)
